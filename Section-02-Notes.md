@@ -2,4 +2,7 @@
 - [ ] 02 What is Functional Programming?
   - [ ] Bob and Alice
   - [ ] Slow loading and build
-  
+  - [ ] What is Functional Programming?
+  - [ ] Why Use Functional Programming?
+    - Sibling of OOP, Declarative Paradigm
+- [ ] 03 Declare What You Mean
